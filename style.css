@@ -1,5 +1,5 @@
 body{
-   background-color: #8886ff;
+   background-color: #6665a8;
    color: rgb(255, 255, 255)
    }
    .cabecalho {
@@ -30,8 +30,11 @@ body{
    }
    
    .escola-imagem{
-   width: 150px;
+   width: 200px;
    }
+
+
    foto-perfil {
    width: 161px;
    }
+
